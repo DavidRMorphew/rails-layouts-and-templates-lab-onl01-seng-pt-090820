@@ -38,6 +38,7 @@ group :development, :test do
   gem 'pry'
   gem 'rspec-rails'
   gem 'capybara'
+  gem 'rails-controller-testing'
 end
 
 group :development do
